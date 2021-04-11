@@ -159,7 +159,6 @@ a {
   -o-text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.4);
   text-decoration: none;
   position: relative;
-  behavior: url(PIE.htc);
 }
 .header .phone {
   float: right;
@@ -199,7 +198,6 @@ a {
   line-height: 59px;
   margin: 0 0 13px;
   position: relative;
-  behavior: url(PIE.htc);
 }
 .header .text div {
   width: 525px;
@@ -227,7 +225,6 @@ a {
   text-align: center;
   margin: 46px 0 0;
   position: relative;
-  behavior: url(PIE.htc);
 }
 .header form .title {
   font-size: 16px;
@@ -258,12 +255,10 @@ input[type="text"] {
   color: #747474;
   line-height: normal;
   position: relative;
-  behavior: url(PIE.htc);
 }
 .akv-btn {
   height: 59px;
   background: #ffb700;
-  background: url(../img/akvbtn-light.png) no-repeat center 0 bottom #ffb700;
   color: #000;
   border-bottom: #ac7f13 5px solid;
   border-radius: 10px;
@@ -283,7 +278,6 @@ input[type="text"] {
   margin: 12px 0;
   position: relative;
   text-align: center;
-  behavior: url(PIE.htc);
 }
 a.akv-btn {
   display: inline-block;
@@ -293,7 +287,6 @@ a.akv-btn {
   font-size: 24px;
   line-height: 50px;
   background: #ffb700;
-  background: url(../img/akvbtn-light2.png) no-repeat center 0 bottom #ffb700;
 }
 .akv-btn.small {
   height: 32px;
@@ -302,7 +295,6 @@ a.akv-btn {
   border-bottom-width: 3px;
   font-size: 16px;
   background: #ffb700;
-  background: url(../img/akvbtn-light3.png) no-repeat center 0 bottom #ffb700;
 }
 .warranty-link span,
 .warranty-link {
@@ -407,7 +399,6 @@ a.akv-btn {
   -moz-box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
   -o-box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
   position: relative;
-  behavior: url(PIE.htc);
 }
 .solutions .img-wrap {
   width: 241px;
@@ -418,7 +409,6 @@ a.akv-btn {
   -o-box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
   margin: 0 0 26px;
   position: relative;
-  behavior: url(PIE.htc);
 }
 .solutions .img-wrap img {
   display: block;
@@ -522,7 +512,6 @@ a.akv-btn {
   padding: 13px 27px;
   position: relative;
   margin: 10px 0 9px;
-  behavior: url(PIE.htc);
 }
 .completed .address:before {
   content: "";
@@ -608,7 +597,6 @@ a.akv-btn {
   padding: 0 25px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
   position: relative;
-  behavior: url(PIE.htc);
 }
 .order-block .h50,
 #map .h50 {
@@ -637,7 +625,6 @@ a.akv-btn {
   -o-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
   text-align: center;
   position: relative;
-  behavior: url(PIE.htc);
 }
 .order-block form .title,
 #map form .title {
@@ -696,7 +683,6 @@ a.akv-btn {
   -moz-border-radius: 2px;
   -o-border-radius: 2px;
   position: relative;
-  behavior: url(PIE.htc);
 }
 
 /*gallery*/
@@ -804,7 +790,6 @@ a.akv-btn {
   border-radius: 13px;
   margin: 0 19px 30px 0;
   position: relative;
-  behavior: url(PIE.htc);
 }
 .reviews .no-photo {
   border: #cacaca 3px solid;
@@ -836,7 +821,6 @@ a.akv-btn {
   line-height: 23px;
   position: relative;
   text-align: justify;
-  behavior: url(PIE.htc);
 }
 .reviews .text:after {
   content: "";
@@ -976,7 +960,6 @@ a.akv-btn {
   -o-border-radius: 50%;
   position: relative;
   cursor: pointer;
-  behavior: url(PIE.htc);
 }
 .visual .item:hover .point {
   background: url(../img/bg-point.png);
@@ -994,7 +977,6 @@ a.akv-btn {
   -o-border-radius: 50%;
   position: relative;
   top: 8px;
-  behavior: url(PIE.htc);
 }
 .visual .point:before {
   content: "";
@@ -1007,7 +989,7 @@ a.akv-btn {
   -o-border-radius: 50%;
   margin: 0 auto;
   position: absolute;
-  behavior: url(PIE.htc);
+
   z-index: 2;
   left: 14px;
   top: 14px;
@@ -1139,7 +1121,7 @@ a.akv-btn {
   -moz-box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
   -o-box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
   position: relative;
-  behavior: url(PIE.htc);
+
   z-index: 1;
 }
 .how li {
@@ -1208,7 +1190,6 @@ a.akv-btn {
   box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.6);
   -moz-box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.6);
   -o-box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.6);
-  behavior: url(PIE.htc);
 }
 .footer .logo {
   margin: 21px 0 0;
@@ -1343,7 +1324,7 @@ a.akv-btn {
   box-shadow: #2b2a2a 0 0 7px;
   -box-shadow: #2b2a2a 0 0 7px;
   -o-box-shadow: #2b2a2a 0 0 7px;
-  behavior: url(PIE.htc);
+
   left: 50%;
   top: 50%;
 }
